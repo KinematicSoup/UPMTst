@@ -1,6 +1,6 @@
 {
   "name": "com.kinematicsoup.reactor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "unity": "2021.3",
   "displayName": "Reactor Multiplayer",
   "description": "Use Reactor Multiplayer to create and host multiplayer game servers.",
