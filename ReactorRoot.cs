@@ -24,5 +24,8 @@ namespace KS.Reactor.Client.Unity
     internal class ReactorRoot : ScriptableObject
     {
 
+
+
+
     }
 }
